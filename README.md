@@ -11,8 +11,17 @@
 ```sh
 mvn clean package
 ```
-## Run Command
+**Run Command**
 ```sh
 mvn spring-boot:run
 ```
 **Port:** 8080  
+
+**Dependency**  
+The following services must be running  
+```sh
+Zookeeper 
+Kafka  
+Redis  
+```
+
