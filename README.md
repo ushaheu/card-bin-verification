@@ -19,9 +19,7 @@ mvn spring-boot:run
 
 **Dependency**  
 The following services must be running  
-```sh
-Zookeeper 
-Kafka  
-Redis  
-```
+[Zookeeper](https://github.com/ushaheu/developer-tools)   
+[Kafka](https://github.com/ushaheu/developer-tools)  
+[Redis](https://github.com/ushaheu/developer-tools)  
 
